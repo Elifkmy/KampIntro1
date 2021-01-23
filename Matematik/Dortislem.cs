@@ -12,4 +12,5 @@ namespace Matematik
             int toplam = sayi1 + sayi2;
             Console.WriteLine("Sonuç : " + toplam);
         }
+    }
 }
